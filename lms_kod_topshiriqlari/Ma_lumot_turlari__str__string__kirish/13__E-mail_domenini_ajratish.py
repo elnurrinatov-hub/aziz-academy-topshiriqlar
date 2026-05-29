@@ -1,0 +1,1 @@
+print(f"Domain: {input().split('@')[ 1 ]}")
