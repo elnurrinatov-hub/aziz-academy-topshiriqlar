@@ -1,0 +1,1 @@
+print(f"Natija: {int(input())**2}")
