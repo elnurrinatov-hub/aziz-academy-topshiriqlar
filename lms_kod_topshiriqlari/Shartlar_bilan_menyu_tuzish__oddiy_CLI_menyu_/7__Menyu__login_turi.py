@@ -1,0 +1,7 @@
+r = input().strip().lower()
+if r == "admin":
+    print("Full access")
+elif r == "user":
+    print("Limited")
+else:
+    print("Guest")
