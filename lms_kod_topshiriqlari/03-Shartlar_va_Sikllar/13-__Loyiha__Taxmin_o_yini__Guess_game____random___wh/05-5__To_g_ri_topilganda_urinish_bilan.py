@@ -5,4 +5,4 @@ for i in range(1, 100):
     
     if g == s:
         print(f"Correct in {i} tries")
-        
+        break

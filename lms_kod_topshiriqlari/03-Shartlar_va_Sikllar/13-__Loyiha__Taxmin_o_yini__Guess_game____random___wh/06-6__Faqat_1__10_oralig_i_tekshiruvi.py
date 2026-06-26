@@ -11,4 +11,4 @@ while c < 3:
         
         if g == s:
             print("Correct")
-            
+            break
