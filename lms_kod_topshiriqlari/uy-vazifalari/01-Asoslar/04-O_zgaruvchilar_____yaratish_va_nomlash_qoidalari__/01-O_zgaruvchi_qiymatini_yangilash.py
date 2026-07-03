@@ -1,1 +1,2 @@
-print("VGBHM")
+print("Boshlandi")
+print("Tugadi")
