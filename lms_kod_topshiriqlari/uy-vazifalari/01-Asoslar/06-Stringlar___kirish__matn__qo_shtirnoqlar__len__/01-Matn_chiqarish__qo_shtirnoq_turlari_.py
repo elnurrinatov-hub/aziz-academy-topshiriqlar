@@ -1,1 +1,2 @@
-print("G")
+print("Salom, dunyo!")
+print("Python tili")
