@@ -1,1 +1,6 @@
-print("K")
+print("  *")
+print("  ***")
+print(" *****")
+print("*******")
+print("   |")
+print("   |")
