@@ -1,1 +1,2 @@
-print("GB")
+print("True")
+print("False")
