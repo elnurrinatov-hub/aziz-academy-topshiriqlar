@@ -1,1 +1,2 @@
-print("G")
+print("Faol: True")
+print("Tasdiqlangan: False")
