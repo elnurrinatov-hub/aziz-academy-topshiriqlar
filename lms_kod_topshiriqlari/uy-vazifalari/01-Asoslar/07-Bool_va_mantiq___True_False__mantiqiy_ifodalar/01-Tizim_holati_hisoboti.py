@@ -1,1 +1,5 @@
-print("F")
+print("=== TIZIM HOLATI ===")
+print("Server ishlayapti: True")
+print("Baza ulangan: True")
+print("Xatolik bor: False")
+print("Xavfsiz: True")
