@@ -1,0 +1,7 @@
+isim1 = input()
+yosh1 = input()
+isim2 = input()
+yosh2 = input()
+print("Ism\tYosh")
+print(isim1 + "\t" + yosh1)
+print(isim2 + "\t" + yosh2)
