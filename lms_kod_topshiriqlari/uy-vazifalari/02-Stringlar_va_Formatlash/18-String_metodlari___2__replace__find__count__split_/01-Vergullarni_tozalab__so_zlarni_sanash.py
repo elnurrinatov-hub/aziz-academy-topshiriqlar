@@ -1,0 +1,7 @@
+a = input()
+a = a.replace(',', ' ')
+sozlar = a.split()
+tozalangan_a = ' '.join(sozlar)
+soni = len(sozlar)
+print(tozalangan_a)
+print(soni)
