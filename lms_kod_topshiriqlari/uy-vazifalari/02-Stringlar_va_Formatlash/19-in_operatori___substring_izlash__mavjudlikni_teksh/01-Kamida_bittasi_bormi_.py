@@ -1,0 +1,5 @@
+a = input()
+s1 = input()
+s2 = input()
+natija = (s1 in a) or (s2 in a)
+print(natija)
