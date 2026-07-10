@@ -1,0 +1,6 @@
+a = input()
+m = input()
+print(f"Hurmatli {a},")
+print("Sizni tabriklaymiz!")
+print("Hurmat bilan,")
+print(m)
