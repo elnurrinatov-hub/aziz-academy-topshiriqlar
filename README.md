@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — RINATOV ELNUR
+# 🎓 Aziz Academy — Rinatov Elnur
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
 
-- ⭐ Jami ball: **30803**
-- 📤 GitHubga yuborilgan topshiriqlar: **561**
+- ⭐ Jami ball: **31018**
+- 📤 GitHubga yuborilgan topshiriqlar: **562**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 07:20</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 11:36</sub>
